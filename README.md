@@ -1,6 +1,5 @@
 # Issue States
 
-[![Build Status](https://img.shields.io/travis/com/dessant/issue-states/master.svg)](https://travis-ci.com/dessant/issue-states)
 [![Version](https://img.shields.io/npm/v/issue-states.svg?colorB=007EC6)](https://www.npmjs.com/package/issue-states)
 
 Issue States is a GitHub App built with [Probot](https://github.com/probot/probot)
@@ -63,7 +62,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2018-2019 Armin Sebastian
+Copyright (c) 2018-2021 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.
