@@ -2,6 +2,9 @@
 
 [![Version](https://img.shields.io/npm/v/issue-states.svg?colorB=007EC6)](https://www.npmjs.com/package/issue-states)
 
+> This project is in maintenance mode, migrating to the version
+built on GitHub Actions is recommended: https://github.com/dessant/issue-states
+
 Issue States is a GitHub App built with [Probot](https://github.com/probot/probot)
 that opens or closes issues when they are moved to a project column.
 
