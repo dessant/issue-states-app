@@ -41,7 +41,7 @@ of the repository or add it at the same file path to a repository
 named `.github` to override any of these default settings:
 
 ```yaml
-# Configuration for Issue States - https://github.com/dessant/issue-states
+# Configuration for Issue States - https://github.com/dessant/issue-states-app
 
 # Open issues that are moved to these project columns. Set to `[]` to disable
 openIssueColumns: []

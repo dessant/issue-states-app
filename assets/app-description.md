@@ -1,6 +1,6 @@
 A GitHub App that opens or closes issues when they are moved to a project column.
 
-![](https://raw.githubusercontent.com/dessant/issue-states/master/assets/screenshot.png)
+![](https://raw.githubusercontent.com/dessant/issue-states-app/master/assets/screenshot.png)
 
 ## Supporting the Project
 
@@ -22,7 +22,7 @@ Care must be taken during the use of the app to not conflict with project automa
 Optionally, create `.github/issue-states.yml` in the default branch of the repository or add it at the same file path to a repository named `.github` to override any of these default settings:
 
 ```yaml
-# Configuration for Issue States - https://github.com/dessant/issue-states
+# Configuration for Issue States - https://github.com/dessant/issue-states-app
 
 # Open issues that are moved to these project columns. Set to `[]` to disable
 openIssueColumns: []
