@@ -2,13 +2,9 @@ A GitHub App that opens or closes issues when they are moved to a project column
 
 ![](https://raw.githubusercontent.com/dessant/issue-states-app/master/assets/screenshot.png)
 
-## Supporting the Project
-
-The continued development of Issue States is made possible thanks to the support of awesome backers. If you'd like to join them, please consider contributing with [Patreon](https://armin.dev/go/patreon?pr=issue-states&src=app), [PayPal](https://armin.dev/go/paypal?pr=issue-states&src=app) or [Bitcoin](https://armin.dev/go/bitcoin?pr=issue-states&src=app).
-
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/issue-states)** for the intended repositories
+1. **[Install the GitHub App]()** for the intended repositories
 2. Start adding or moving issues to the project columns defined in `openIssueColumns` and `closedIssueColumns`
 
 Issues which were already in the respective columns before the app was installed will not be processed. To process these issues, move them to a different column, then move them back.
